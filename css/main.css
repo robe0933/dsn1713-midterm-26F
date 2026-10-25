@@ -3,6 +3,14 @@
 /* Set custom variables here */
 
 
+/* Set custom variables here */
+:root {
+  --bs-body-bg: #F6F3ED;
+  --bs-primary: #2e483a;
+  --bs-primary-rgb: 46, 72, 58;
+  --bs-light: #f6f3ed;
+}
+
 
 
 
